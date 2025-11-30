@@ -1,6 +1,10 @@
 # Clash Party 科学上网资源下载
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashParty" src="https://github.com/user-attachments/assets/f9f9a863-c748-4bf3-a877-7d33e17492f4" />
+</div>
+<br>
 
 ## :memo: Clash Party 节点资源
 
